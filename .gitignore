@@ -1,0 +1,5 @@
+editor_data/cache
+editor_data/shader_cache
+
+# Templates can be downloaded through Godot, no need to store them in the repo.
+editor_data/export_templates
