@@ -155,10 +155,5 @@ text_editor/theme/highlighting/comment_markers/notice_list = "INFO,NOTE,NOTICE,T
 text_editor/help/sort_functions_alphabetically = true
 export/android/java_sdk_path = ""
 network/language_server/poll_limit_usec = 100000
-metadata/script_setup_templates_dictionary = {
-"Node": "0NodeDefault",
-"Node3D": "0NodeDefault",
-"Player": "0NodeDefault",
-"Sprite2D": "0NodeDefault"
-}
+metadata/script_setup_templates_dictionary = {}
 metadata/export_template_download_directory = "C:/Users/rianr/Git/Arcade/game-engine/editor_data/cache"
